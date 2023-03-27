@@ -1,0 +1,15 @@
+.navbar-brand,
+.navbar-collapse,
+.content {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.navbar {
+    border-bottom: 1px solid grey;
+}
+
+.features_title {
+    border-bottom: 2px solid black;
+    
+}
